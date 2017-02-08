@@ -5,3 +5,15 @@ You create files needed for git to work.
 How is he staging area different from teh working directory and the repository? What value do you think it offers?
 
 The Staging area offers a temporary step between the working directory and the repository so that you can control what files that you want to put into the repo. This offers the ability of more control and to create more logical sense when adding files to a repo.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By only adding the files that you want to commit to the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches allow you to do the expermental features outside your main. You could do so with commits, but that would require alot of overhead work this is easier.
+
+How do diagrams help you visualize the branch structure? 
+By giving a visual representation of what's going on in git.
+
