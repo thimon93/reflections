@@ -17,3 +17,11 @@ Branches allow you to do the expermental features outside your main. You could d
 How do diagrams help you visualize the branch structure? 
 By giving a visual representation of what's going on in git.
 
+What is the result of merging two branches together? Why do we represent the diagram the way we do?
+The result of merging to branches together is that we combine the changes of one branch to another. Git will automatically determine what to add and what to remove. 
+You represented it that way to see the relationships between each commit in the branches.
+
+What are the pros and cons of Git's automatic merging vs always doing it manually?
+ Git can resolve the obvious merges, saving you time, and only ask you for help in ambiguous cases.
+
+
