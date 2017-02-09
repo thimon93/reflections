@@ -16,3 +16,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 This way git can know wether or not you are ahead of the origin/master.
 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You would probably send files over email and use chat to talk about changes. Harder.
+
+When would you want to make changes in a seperate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a seperate branch when you want to do a pull request that resulted in a conflict since you need to fix the conflcits but you also need to do another pull request. This allows for you to be able to keep it clear to the people collaborating what commits happened. If you just pushed, some commit messages would be missed. 
