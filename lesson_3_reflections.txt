@@ -2,4 +2,8 @@ When would you want to create a remote repository rather than keeping all your w
 
 When working on a project with multiple people, or when you just want to store a project online instead of locally in case of computer tragedy.
 
-I like pie.
+Why might you want to always pull changes manually rather than having Git automatically stay up to date with your remote repository?
+
+The same reason you would want to have commits be manual. This way, you control what's going on with your project. Someone else might be working on the project might update it and it could potentially overwrite or break what you are locally working on .
+
+
