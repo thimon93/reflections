@@ -12,3 +12,7 @@ Forks is when you clone a repo on github.
 Clone is whenever you copy another repo to another location, local or remotely.
 Branches are just when you want to work on something without messing with your master code branch.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This way git can know wether or not you are ahead of the origin/master.
+
